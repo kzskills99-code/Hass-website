@@ -1,5 +1,6 @@
 body{margin:0;font-family:Segoe UI,sans-serif;background:#fff7f0;color:#2e2e2e;}
 header{background:#5a2d0c;color:#fff;padding:1rem 2rem;display:flex;justify-content:space-between;align-items:center;}
+.logo-img{height:60px;width:auto;max-width:200px;}
 header nav a{color:#fff;margin:0 0.8rem;font-weight:bold;text-decoration:none;}
 header nav a:hover{color:#ffcc66;}
 .hero{background:url('../images/brisket-hero.jpg') center/cover no-repeat;height:80vh;display:flex;align-items:center;justify-content:center;color:#fff;text-align:center;}
